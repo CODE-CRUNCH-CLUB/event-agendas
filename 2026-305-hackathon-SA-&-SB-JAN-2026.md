@@ -18,7 +18,8 @@
 | **Category** | **Details** |
 |-------------|-------------|
 | Event Type | Multi-session problem-solving competition |
-| Tracks | 💻 Tech (Coding & Development)<br>🚀 Technopreneurship (No-Code / Business Pitch)<br>📊 **305 Excel Duel Competition** |
+| Tracks | 💻 Tech (Coding & Development)<br>🚀 Technopreneurship (No-Code / Business Pitch) |
+| Live Competitions | 📊 **305 Excel Duel Competition** — Live, in-person Excel showdown held on Saturday<br>Fast-paced, competitive data & analytics challenge |
 | Eligibility | Open to everyone — all majors, all universities, and high school students |
 
 ---
