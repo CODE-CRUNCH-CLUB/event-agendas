@@ -44,7 +44,7 @@
 | 🌐 Website | https://CodeFesthack.vercel.app |
 | 📸 Photo Album | https://HackUniversity-Album.vercel.app |
 | 🎁 Perks | https://HackUniversity-Perks.vercel.app |
-| 🧑‍🏫 Mentorship | [Mentors Schedule CodeFest HACK: Edition Dec 2025 — Session A & B]( https://docs.google.com/document/d/1rSdolSVHgrEW0xwgDPWVK0khGvq0J8VDtN5sfn9E7qU/edit?usp=sharing ) - Platform: Discord (Text & Voice Channels) - Access: Open to Session A & B participants |
+| 🧑‍🏫 Mentorship | [Mentors Schedule CodeFest HACK: Edition Dec 2025 — Session A & B]( https://docs.google.com/document/d/1rSdolSVHgrEW0xwgDPWVK0khGvq0J8VDtN5sfn9E7qU/edit?usp=sharing ) - Platform: Code Crunch Discord Server (Text & Voice Channels) - Access: Open to Session A & B participants |
 
 ---
 
