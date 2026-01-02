@@ -6,7 +6,8 @@
   />
 </p>
 
-<h1 align="center">CodeFest Hack — December 2025 Edition Agenda</h1>
+<h1 align="center">CodeFest Hack — Edition December 2025</h1>
+<h1 align="center">Event Agenda</h1>
 <h3 align="center">Session B (In-Person) @ Florida International University (FIU)</h3>
 
 ---
