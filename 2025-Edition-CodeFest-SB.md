@@ -70,7 +70,7 @@
 
 # 🗓️ Agenda — Session B (EST)
 
-## 🎉 Day 1 — Saturday (In-Person)
+## 🎉 Day 1 of 1 (12 Hours) — Saturday (In-Person)
 
 | **Time (EST)** | **Activity** | **Details** |
 |---------------|-------------|-------------|
