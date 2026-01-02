@@ -1,13 +1,13 @@
 <p align="center">
   <img
-    src="[https://github.com/user-attachments/assets/293e2768-4f34-48e0-9494-7f093edc5ce3](https://github.com/user-attachments/assets/f717c5d6-c76e-4997-96ee-282324dd9714)"
+    src="https://github.com/user-attachments/assets/f717c5d6-c76e-4997-96ee-282324dd9714"
     alt="Hack University Online Hackathon Agenda"
     width="100%"
   />
 </p>
 
 <h1 align="center">CodeFest Hack — December 2025 Edition Agenda</h1>
-<h3 align="center">Session B (In-Person) @ Florida International Univeristy (FIU)</h3>
+<h3 align="center">Session B (In-Person) @ Florida International University (FIU)</h3>
 
 
 
