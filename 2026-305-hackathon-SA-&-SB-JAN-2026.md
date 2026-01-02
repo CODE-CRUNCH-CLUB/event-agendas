@@ -6,7 +6,7 @@
   />
 </p>
 
-<h1 align="center">305 HACK — Edition January 2026</h1>
+<h1 align="center">305 HACKATHON — Edition January 2026</h1>
 <h3 align="center"><em>Florida’s Gateway to Innovation</em></h3>
 <h1 align="center">Event Agenda</h1>
 <h3 align="center">Session A (Online) & Session B (In-Person)</h3>
@@ -45,8 +45,8 @@
 | 🌎 Time Zone | Eastern Time (EST) — Miami, FL, United States |
 | 📍 Location | Florida International University<br>Online & In-Person @ FIU Campus |
 | 🌐 Website | https://305hackjan26.vercel.app |
-| 📸 Photo Album | https://HackUniversity-hub.vercel.app |
-| 🎁 Participant Perks | https://HackUniversity-hub.vercel.app |
+| 📸 Photo Album | https://HackUniversity-album.vercel.app |
+| 🎁 Participant Perks | https://HackUniversity-perks.vercel.app |
 | 🧑‍🏫 Mentorship | [Mentors Schedule — 305 Hackathon & Business Venture Arena Edition Jan 2026 (Session A & B)](https://docs.google.com/document/d/1vc6ungwau_cfVShlA93vZPiTGs7eXL5Mk-OYwDTA_W8/edit?usp=sharing) |
 
 ---
