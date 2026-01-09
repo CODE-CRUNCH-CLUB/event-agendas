@@ -37,7 +37,7 @@
 | **Event Info** | **Details** |
 |---------------|-------------|
 | 🎯 Theme | **AI in Healthcare & Biotech** |
-| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>FIU Campus (Everglades MPR 1st Floor) — Miami, FL |
+| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>📍 Florida International University (FIU Campus - Everglades MPR 1st Floor) — Miami, FL |
 | ⏱ Duration (Session B) | **12 Hours** |
 | 📅 Session A (Online) | **January 16 – January 24, 2026 (EST)** |
 | ⏱ Duration (Session A) | **192 Hours** |
@@ -71,31 +71,79 @@
 | 🔔 Updates | Stay tuned for full agenda details |
 -->
 
-## 🗓️ Agenda — Workshops (Session A & B | Hybrid)
-**Eastern Standard Time (EST)**
+---
 
-### 🔗 Zoom Access
-**Main Zoom Room:**  
-https://hackuniversity-zoom.vercel.app  
+## 🗓️ Agenda — Session A (Online)
+🎉 **Day 1 — Friday, January 16, 2026**
 
-**Backup / Organizer Zoom:**  
-https://codecrunch-zoom.vercel.app  
+| Time (EST) | Activity | Details | Location |
+|---|---|---|---|
+| January 2026 | Registration Opens | Register via the student portal | https://hackuniversity.vercel.app |
+| Jan 16, 2026 | Registration Deadline for Perks | Last day to qualify for perks | https://hackuniversity.vercel.app |
+| Until Jan 24 | Registration (Limited) | Registration remains open while hacking continues | https://hackuniversity.vercel.app |
+| — | Team Formation | Meet fellow hackers, form teams, begin ideation | Online |
+| 10:00 PM | Opening Ceremony | Welcome remarks from organizers & partners | Zoom: https://hackuniversity-zoom.vercel.app |
+| 10:00 PM | Participant Check-In | Complete Bevy check-in & MLH (if applicable) | https://hackuniversity.vercel.app |
+| 11:00 PM | Start Hacking | Hackathon officially begins | Online |
+| 11:00–11:59 PM | Idea Pitching & Finalization | Finalize project ideas, first GitHub commit | Online |
 
 ---
 
-| Time (EST) | Workshop | Description | Location |
+## 🗓️ Agenda — Session A (Online)
+💡 **Days 2–7 — January 17–24, 2026**
+
+| Activity | Details | Location |
+|---|---|---|
+| Hacking Continues | Build, iterate, and collaborate | Online |
+
+---
+
+## 🗓️ Agenda — Session B (In-Person)
+🎉 **Day 1 — Saturday, January 24, 2026 (12-Hour Sprint)**
+
+| Time (EST) | Activity | Details | Location |
 |---|---|---|---|
-| 12:00–12:45 PM | **CAHSI at FIU**  <br> https://cahsi.org | Graduate school pathways, research opportunities (REUs, faculty engagement), and résumé readiness strategies. | In-Person: FIU Everglades Hall MPR  <br> Zoom: https://hackuniversity-zoom.vercel.app |
-| 1:00–1:59 PM | Lunch Break | **Food provided for Session B participants** | In-Person @ FIU |
-| 2:00–2:45 PM | **ColorStack at FIU**  <br> https://colorstack.org | How to prepare for technical interviews: data structures, problem-solving, behavioral prep, and practice resources. | In-Person @ FIU  <br> Zoom: https://hackuniversity-zoom.vercel.app |
-| 3:00–3:45 PM | **Code Crunch Worldwide**  <br> https://codecrunchglobal.vercel.app | Git & GitHub basics: version control, collaboration, GitHub Projects, and GitHub Actions automation. | In-Person @ FIU  <br> Zoom: https://hackuniversity-zoom.vercel.app |
-| 4:00–4:45 PM | **Google Developer Group at FIU**  <br> https://gdg.community.dev | Google Cloud foundations, Google Cloud Console, Vertex AI APIs, and BigQuery basics. | In-Person @ FIU  <br> Zoom: https://hackuniversity-zoom.vercel.app |
-| 5:00–5:30 PM | **Raspberry Pi Code Crunch**  <br> https://www.raspberrypi.org | Hardware fundamentals using free tools like Tinkercad, plus community teaching resources. | In-Person @ FIU  <br> Zoom: https://hackuniversity-zoom.vercel.app |
-| — | Snacks Available | **Light snacks and refreshments available throughout the 12-hour Session B sprint** | In-Person @ FIU |
-| 6:00–6:59 PM | Dinner Break | **Dinner provided for Session B participants** | In-Person @ FIU |
-| 7:00–7:30 PM | Finalization Round 2 | Final project refinement and submission preparation. | In-Person @ FIU  <br> Zoom: https://hackuniversity-zoom.vercel.app |
+| January 2026 | Registration Opens | Register via student portal | https://hackuniversity.vercel.app |
+| Jan 22, 2026 | Registration Deadline for Perks | Final day to qualify for perks | https://hackuniversity.vercel.app |
+| Until Jan 24 | Registration (Limited) | Open until hackathon ends | https://hackuniversity.vercel.app |
+| — | Team Formation | Meet fellow hackers and form teams | In-Person |
+| 10:00 AM | Participant Check-In | Bevy check-in & MLH (if applicable) | FIU Registration Tables |
+| 11:00 AM | Opening Ceremony | Welcome remarks from organizers & partners | In-Person @ FIU |
+| 11:00 AM | Start Hacking | Hackathon officially begins | In-Person |
+| — | Snacks Available | Light snacks & refreshments available throughout the 12-hour sprint | In-Person @ FIU |
 
+---
 
+## 🧑‍🏫 Workshops — Session A & B (Hybrid)
+
+### 🔗 Zoom Access
+- Main Zoom Room: https://hackuniversity-zoom.vercel.app  
+- Backup / Organizer Zoom: https://codecrunch-zoom.vercel.app  
+
+| Time (EST) | Organization | Workshop | Location |
+|---|---|---|---|
+| 12:00–12:45 PM | **CAHSI at FIU**  <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
+| 1:00–1:59 PM | — | **Lunch Break** — Food provided for Session B participants | In-Person @ FIU |
+| 2:00–2:45 PM | **ColorStack at FIU**  <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU / Zoom |
+| 3:00–3:45 PM | **Code Crunch Worldwide**  <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU / Zoom |
+| 4:00–4:45 PM | **Google Developer Group at FIU**  <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU / Zoom |
+| 5:00–5:30 PM | **Raspberry Pi Code Crunch**  <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU / Zoom |
+| 6:00–6:59 PM | — | **Dinner Break** — Dinner provided for Session B participants | In-Person @ FIU |
+| 7:00–7:30 PM | — | Finalization Round 2 — Prepare submissions | FIU / Zoom |
+
+---
+
+## 🏁 Final Hours — Session A & B
+
+| Time (EST) | Activity | Details |
+|---|---|---|
+| — | Hacking Continues | Final refinement before submission |
+| 7:00 PM | Devpost Gallery Opens | Ensure project visibility |
+| 8:00 PM | Hacking Ends | Submissions close |
+| 7:00–7:59 PM | Judging Review | Judges review all submissions |
+| 8:00–9:59 PM | Live Demos & Q&A | 2-min demo + 1-min Q&A per team |
+| 11:00–11:30 PM | Awards Ceremony | Winners announced (Session A & B) |
+| 11:00–11:30 PM | Closing Remarks & Networking | Discord voice channels |
 
 
 ---
