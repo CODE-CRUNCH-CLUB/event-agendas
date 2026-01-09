@@ -141,9 +141,10 @@
 | 7:00 PM | Devpost Gallery Opens | Ensure project visibility |
 | 8:00 PM | Hacking Ends | Submissions close |
 | 7:00–7:59 PM | Judging Review | Judges review all submissions |
-| 8:00–9:59 PM | Live Demos & Q&A | 2-min demo + 1-min Q&A per team |
-| 11:00–11:30 PM | Awards Ceremony | Winners announced (Session A & B) |
-| 11:00–11:30 PM | Closing Remarks & Networking | Discord voice channels |
+| 8:00–9:59 PM | Live Demos & Q&A /  | 2-min demo + 1-min Q&A per team |
+| 8:00–9:59 PM | Closing Remarks & Awards Ceremony | Winners announced (Session A & B) |
+| 11:00–11:30 PM | Winners announced (Session A & B) | Discord announcment channel |
+| 11:00–11:30 PM | Networking | Discord voice channels |
 
 
 ---
