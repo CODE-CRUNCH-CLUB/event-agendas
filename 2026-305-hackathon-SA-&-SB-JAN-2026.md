@@ -70,6 +70,82 @@
 | 📅 Release Date | Will be available **January 5, 2026 or earlier** |
 | 🔔 Updates | Stay tuned for full agenda details |
 
+
+## 🗓️ Agenda — Session A & B
+
+---
+
+## 🗓️ Agenda — Session A (Online)
+**Eastern Standard Time (EST)**  
+**🎉 Day 1 — Friday, January 16, 2026**
+
+| Time (EST) | Activity | Details | Location |
+|---|---|---|---|
+| January 2026 | Registration Opens | Register via the student portal | HackUniversity.vercel.app → Student Portal → Hackathons |
+| Jan 16, 2026 | Registration Deadline for Perks | Last day to qualify for participant perks | HackUniversity.vercel.app |
+| Until Jan 24 | Registration (Limited) | Registration remains open while hacking continues | HackUniversity.vercel.app |
+| — | Team Formation | Meet fellow hackers, form teams, and begin ideation | Remote |
+| 10:00 PM | Opening Ceremony | Welcome remarks from organizers and partners | Zoom (CodeCrunch / HackUniversity) |
+| 10:00 PM | Participant Check-In | Complete Bevy check-in and MLH (if applicable) | HackUniversity.vercel.app |
+| 11:00 PM | Start Hacking | Hackathon officially begins | Remote |
+| 11:00–11:59 PM | Idea Pitching & Finalization | Finalize project ideas and make your first GitHub commit | Remote |
+
+---
+
+## 🗓️ Agenda — Session A (Online)
+**💡 Days 2–7 — January 17–24, 2026**
+
+| Activity | Details | Location |
+|---|---|---|
+| Hacking Continues | Teams continue building, iterating, and collaborating | Remote |
+
+---
+
+## 🗓️ Agenda — Session B (In-Person)
+**Eastern Standard Time (EST)**  
+**🎉 Day 1 — Saturday, January 24, 2026 (12-Hour Event)**
+
+| Time (EST) | Activity | Details | Location |
+|---|---|---|---|
+| January 2026 | Registration Opens | Register via student portal | HackUniversity.vercel.app |
+| Jan 22, 2026 | Registration Deadline for Perks | Final day to qualify for perks | HackUniversity.vercel.app |
+| Until Jan 24 | Registration (Limited) | Open until hackathon ends | HackUniversity.vercel.app |
+| — | Team Formation | Meet fellow hackers and form teams | In-Person |
+| 10:00 AM | Participant Check-In | Bevy check-in and MLH (if applicable) | FIU Registration Tables |
+| 11:00 AM | Opening Ceremony | Welcome remarks from organizers and partners | In-Person @ FIU |
+| 11:00 AM | Start Hacking | Hackathon officially begins | In-Person |
+| 11:00–11:59 AM | Idea Pitching & Finalization | Finalize concepts and commit to GitHub | In-Person |
+
+---
+
+## 🗓️ Agenda — Workshops (Session A & B | Hybrid)
+
+| Time (EST) | Workshop | Description | Location |
+|---|---|---|---|
+| 12:00–12:45 PM | CAHSI at FIU — Graduate School, Research & Résumé Readiness | Grad school pathways, REUs, research engagement, and résumé strategies | FIU Everglades Hall MPR / Zoom |
+| 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
+| 2:00–2:45 PM | ColorStack at FIU — Technical Interview Prep | Data structures, problem-solving, behavioral prep, and practice strategies | FIU / Zoom |
+| 3:00–3:45 PM | Code Crunch Worldwide — Git & GitHub Basics | Version control, GitHub Projects, collaboration, and GitHub Actions | FIU / Zoom |
+| 4:00–4:45 PM | Google Developer Group at FIU — Cloud & AI Foundations | Google Cloud Console, Vertex AI, BigQuery, and cloud fundamentals | FIU / Zoom |
+| 5:00–5:30 PM | Raspberry Pi Code Crunch — Hardware & Teaching Tools | Hardware basics, Tinkercad, and community teaching resources | FIU / Zoom |
+| 6:00–6:59 PM | Dinner & Social Activity | Networking + *Humans vs. AI: Are We Cooked?* | FIU / Zoom |
+| 7:00–7:30 PM | Finalization Round 2 | Refine projects and prepare submissions | FIU / Zoom |
+
+---
+
+## 🗓️ Agenda — Final Hours & Closing (Session A & B)
+
+| Time (EST) | Activity | Details |
+|---|---|---|
+| — | Hacking Continues | Final refinement before submission |
+| 7:00 PM | Devpost Gallery Opens | Ensure project visibility |
+| 8:00 PM | Hacking Ends | Submissions close |
+| 7:00–7:59 PM | Judging Review | Judges review all submissions |
+| 8:00–9:59 PM | Live Demos & Q&A | 2-min demo + 1-min Q&A per team |
+| 11:00–11:30 PM | Awards Ceremony | Winners announced (Session A & B) |
+| 11:00–11:30 PM | Closing Remarks & Networking | Discord voice channels |
+
+
 ---
 
 ## 📣 Contact & Community
