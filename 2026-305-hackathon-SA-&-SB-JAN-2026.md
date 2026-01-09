@@ -61,7 +61,7 @@
 | ⚠️ Disclaimer | Prizes subject to change based on sponsorships, funding, and event resources |
 
 ---
-
+<!--
 ## 🗓️ Agenda — Session A & B
 
 | **Status** | **Details** |
@@ -69,7 +69,7 @@
 | 🚧 Agenda Availability | **Agenda under construction** |
 | 📅 Release Date | Will be available **January 5, 2026 or earlier** |
 | 🔔 Updates | Stay tuned for full agenda details |
-
+-->
 
 ## 🗓️ Agenda — Session A & B
 
@@ -115,6 +115,7 @@
 | 11:00 AM | Opening Ceremony | Welcome remarks from organizers and partners | In-Person @ FIU |
 | 11:00 AM | Start Hacking | Hackathon officially begins | In-Person |
 | 11:00–11:59 AM | Idea Pitching & Finalization | Finalize concepts and commit to GitHub | In-Person |
+| — | Snacks Available | Light snacks and refreshments available throughout the 12-hour sprint | In-Person @ FIU |
 
 ---
 
@@ -128,7 +129,7 @@
 | 3:00–3:45 PM | Code Crunch Worldwide — Git & GitHub Basics | Version control, GitHub Projects, collaboration, and GitHub Actions | FIU / Zoom |
 | 4:00–4:45 PM | Google Developer Group at FIU — Cloud & AI Foundations | Google Cloud Console, Vertex AI, BigQuery, and cloud fundamentals | FIU / Zoom |
 | 5:00–5:30 PM | Raspberry Pi Code Crunch — Hardware & Teaching Tools | Hardware basics, Tinkercad, and community teaching resources | FIU / Zoom |
-| 6:00–6:59 PM | Dinner & Social Activity | Networking + *Humans vs. AI: Are We Cooked?* | FIU / Zoom |
+| 6:00–6:59 PM | Dinner Break | **Dinner provided for Session B participants** | In-Person @ FIU |
 | 7:00–7:30 PM | Finalization Round 2 | Refine projects and prepare submissions | FIU / Zoom |
 
 ---
@@ -144,6 +145,7 @@
 | 8:00–9:59 PM | Live Demos & Q&A | 2-min demo + 1-min Q&A per team |
 | 11:00–11:30 PM | Awards Ceremony | Winners announced (Session A & B) |
 | 11:00–11:30 PM | Closing Remarks & Networking | Discord voice channels |
+
 
 
 ---
