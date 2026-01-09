@@ -37,7 +37,7 @@
 | **Event Info** | **Details** |
 |---------------|-------------|
 | 🎯 Theme | **AI in Healthcare & Biotech** |
-| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>FIU Campus — Miami, FL |
+| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>FIU Campus (Everglades MPR 1st Floor) — Miami, FL |
 | ⏱ Duration (Session B) | **12 Hours** |
 | 📅 Session A (Online) | **January 16 – January 24, 2026 (EST)** |
 | ⏱ Duration (Session A) | **192 Hours** |
