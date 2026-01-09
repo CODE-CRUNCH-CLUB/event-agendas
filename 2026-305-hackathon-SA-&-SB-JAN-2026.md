@@ -129,6 +129,7 @@
 | 4:00–4:45 PM | **Google Developer Group at FIU**  <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU / Zoom |
 | 5:00–5:30 PM | **Raspberry Pi Code Crunch**  <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU / Zoom |
 | 6:00–6:59 PM | — | **Dinner Break** — Dinner provided for Session B participants | In-Person @ FIU |
+| 6:00–6:59 PM | — | **Social Activity** — Humans vs. AI: Are We Cooked? Interactive community-building activity https://deathbyai.gg | In-Person @ FIU |
 | 7:00–7:30 PM | — | Finalization Round 2 — Prepare submissions | FIU / Zoom |
 
 ---
