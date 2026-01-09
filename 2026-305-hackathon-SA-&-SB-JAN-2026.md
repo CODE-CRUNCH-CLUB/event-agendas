@@ -47,7 +47,7 @@
 | 🌐 Website | https://305hackjan26.vercel.app |
 | 📸 Photo Album | https://HackUniversity-album.vercel.app |
 | 🎁 Participant Perks | https://HackUniversity-perks.vercel.app |
-| 🧑‍🏫 Mentorship | [Mentors Schedule — 305 Hackathon & Business Venture Arena Edition Jan 2026 (Session A & B)](https://docs.google.com/document/d/1vc6ungwau_cfVShlA93vZPiTGs7eXL5Mk-OYwDTA_W8/edit?usp=sharing) |
+| 🧑‍🏫 Mentorship | [Mentors Schedule — 305 Hackathon & Business Venture Arena Edition Jan 2026 (Session A & B)](https://docs.google.com/document/d/e/2PACX-1vSLfoVx9avh1RTlXgGZ5RYxzVh1CcoupZxFnqyOPPOpcM0WUrb4VwM7LVI8OsjsU3zDk6i08yZGTA8J/pub) |
 
 ---
 
