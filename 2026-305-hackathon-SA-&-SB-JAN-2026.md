@@ -1,7 +1,7 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/f717c5d6-c76e-4997-96ee-282324dd9714"
-    alt="Hack University Online Hackathon Agenda"
+    alt="305 Hackathon January 2026 Agenda"
     width="100%"
   />
 </p>
@@ -13,150 +13,223 @@
 
 ---
 
-## 🧠 About the Event
+## 🧭 Quick Navigation
+<details>
+<summary><strong>Click to expand</strong></summary>
 
-| **Category** | **Details** |
-|-------------|-------------|
+- About the Event  
+- Event Information  
+- Prizes & Awards  
+- Agenda — Session A (Online)  
+- Agenda — Session B (In-Person)  
+- 305 Excel Data Duel (Live, Both Sessions)  
+- Google Codelabs & Free Credits  
+- Workshops (Hybrid)  
+- Final Hours & Closing Ceremony  
+- Contact & Community  
+
+</details>
+
+---
+
+<details open>
+<summary><strong>🧠 About the Event</strong></summary>
+
+| Category | Details |
+|--------|---------|
 | Event Type | Multi-session problem-solving competition |
 | Tracks | 💻 Tech (Coding & Development)<br>🚀 Technopreneurship (No-Code / Business Pitch) |
-| Live Competitions | 📊 **305 Excel Duel Competition** — Live, in-person Excel showdown held on Saturday<br>Fast-paced, competitive data & analytics challenge |
-| Eligibility | Open to everyone — all majors, all universities, and high school students |
+| Live Competitions | 📊 305 Excel Data Duel (Live) |
+| Eligibility | Open to all majors, all universities, and high school students (16+) |
+
+</details>
 
 ---
 
-## 🎉 Welcome Message
+<details>
+<summary><strong>🎉 Welcome Message</strong></summary>
 
-| **Message** |
-|-------------|
-| Welcome to **305 HACK: Edition January 2026 — Session A & B**! 🎉<br><br>We are thrilled to host a diverse group of industry experts and passionate tech enthusiasts from around the globe. This is your opportunity to dive deep into the fascinating and ever-evolving future of technology, collaborate with innovators, and build impactful solutions.<br><br>🙌 Open to everyone — all majors, all universities, and high school students. Let’s empower the future of tech together! |
+Welcome to **305 HACK: Edition January 2026 — Session A & Session B**.
+
+This event brings together builders, analysts, designers, and innovators to solve real-world problems using technology, data, and creativity.
+
+Open to everyone — all majors, all universities, and high school students.
+
+</details>
 
 ---
 
-## 📌 Event Information
+<details open>
+<summary><strong>📌 Event Information</strong></summary>
 
-| **Event Info** | **Details** |
-|---------------|-------------|
+| Event Info | Details |
+|-----------|---------|
 | 🎯 Theme | **AI in Healthcare & Biotech** |
-| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>📍 Florida International University (FIU Campus - Everglades MPR 1st Floor) — Miami, FL |
+| 📅 Session B (In-Person) | **January 24, 2026 (EST)**<br>FIU Campus — Everglades MPR (1st Floor), Miami, FL |
 | ⏱ Duration (Session B) | **12 Hours** |
 | 📅 Session A (Online) | **January 16 – January 24, 2026 (EST)** |
 | ⏱ Duration (Session A) | **192 Hours** |
-| 🏫 Format | Two Events: Online / Synchronous & In-Person |
-| 🌎 Time Zone | Eastern Time (EST) — Miami, FL, United States |
-| 📍 Location | Florida International University<br>Online & In-Person @ FIU Campus |
-| 🌐 Website | https://305hackjan26.vercel.app |
-| 📅 Events Agendas | https://hackuniversity-agenda.vercel.app |
-| 📸 Photo Album | https://HackUniversity-album.vercel.app |
-| 🎁 Participant Perks | https://HackUniversity-perks.vercel.app |
-| 🧑‍🏫 Mentorship | [Mentors Schedule — 305 Hackathon & Business Venture Arena Edition Jan 2026 (Session A & B)](https://docs.google.com/document/d/e/2PACX-1vSLfoVx9avh1RTlXgGZ5RYxzVh1CcoupZxFnqyOPPOpcM0WUrb4VwM7LVI8OsjsU3zDk6i08yZGTA8J/pub) |
+| 🏫 Format | Online + In-Person |
+| 🌎 Time Zone | Eastern Time (EST) |
+| 🌐 Official Event Page | See full details, updates, and live links on the event page |
+| 📅 Event Agenda | See agenda details on the event page |
+| 📸 Photo Album | See photos and highlights on the event page |
+| 🎁 Participant Perks | See available perks and redemption steps on the event page |
+| 🧑‍🏫 Mentorship | See mentor schedule and access details on the event page |
+
+</details>
 
 ---
 
-## 🏆 Prizes & Awards
+<details>
+<summary><strong>🏆 Prizes & Awards</strong></summary>
 
-| **Item** | **Details** |
-|---------|-------------|
+| Item | Details |
+|-----|--------|
 | 🥇 Winners | Each track will have a **1st Place Winner** |
-| 📣 Announcement | Winners announced after the live closing ceremony |
-| 🗂 Submission Portal | Devpost (see “Prizes” card on event page) |
-| ⚠️ Disclaimer | Prizes subject to change based on sponsorships, funding, and event resources |
+| 📣 Announcements | Winners announced during the closing ceremony |
+| 🗂 Submissions | Submitted through Devpost |
+| ⚠️ Disclaimer | Prizes subject to change based on sponsorship and availability |
 
----
-<!--
-## 🗓️ Agenda — Session A & B
-
-| **Status** | **Details** |
-|-----------|-------------|
-| 🚧 Agenda Availability | **Agenda under construction** |
-| 📅 Release Date | Will be available **January 5, 2026 or earlier** |
-| 🔔 Updates | Stay tuned for full agenda details |
--->
+</details>
 
 ---
 
 ## 🗓️ Agenda — Session A (Online)
-🎉 **Day 1 — Friday, January 16, 2026**
 
-| Time (EST) | Activity | Details | Location |
-|---|---|---|---|
-| January 2026 | Registration Opens | Register via the student portal | https://hackuniversity.vercel.app |
-| Jan 16, 2026 | Registration Deadline for Perks | Last day to qualify for perks | https://hackuniversity.vercel.app |
-| Until Jan 24 | Registration (Limited) | Registration remains open while hacking continues | https://hackuniversity.vercel.app |
-| — | Team Formation | Meet fellow hackers, form teams, begin ideation | Online |
-| 10:00 PM | Opening Ceremony | Welcome remarks from organizers & partners | Zoom: https://hackuniversity-zoom.vercel.app |
-| 10:00 PM | Participant Check-In | Complete Bevy check-in & MLH (if applicable) | https://hackuniversity.vercel.app |
-| 11:00 PM | Start Hacking | Hackathon officially begins | Online |
-| 11:00–11:59 PM | Idea Pitching & Finalization | Finalize project ideas, first GitHub commit | Online |
+<details open>
+<summary><strong>📅 Day 1 — Friday, January 16, 2026</strong></summary>
+
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Registration Opens | Via student portal |
+| — | Team Formation | Meet participants and form teams |
+| 10:00 PM | Opening Ceremony | Welcome remarks & partner introductions |
+| 10:00 PM | Participant Check-In | Event & MLH check-in (if applicable) |
+| 11:00 PM | Start Hacking | Hackathon officially begins |
+| 11:00–11:59 PM | Idea Finalization | Finalize project ideas |
+
+</details>
 
 ---
 
-## 🗓️ Agenda — Session A (Online)
-💡 **Days 2–7 — January 17–24, 2026**
+<details>
+<summary><strong>📅 Days 2–7 — January 17–24, 2026</strong></summary>
 
-| Activity | Details | Location |
-|---|---|---|
-| Hacking Continues | Build, iterate, and collaborate | Online |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Build, iterate, collaborate remotely |
+| **3:00–5:00 PM** | 📊 **305 Excel Data Duel (Live)** | Timed Excel-based analytics challenge (Online) |
+| — | Mentorship & Support | See details on the event page |
+
+</details>
 
 ---
 
 ## 🗓️ Agenda — Session B (In-Person)
-🎉 **Day 1 — Saturday, January 24, 2026 (12-Hour Sprint)**
 
-| Time (EST) | Activity | Details | Location |
-|---|---|---|---|
-| January 2026 | Registration Opens | Register via student portal | https://hackuniversity.vercel.app |
-| Jan 22, 2026 | Registration Deadline for Perks | Final day to qualify for perks | https://hackuniversity.vercel.app |
-| Until Jan 24 | Registration (Limited) | Open until hackathon ends | https://hackuniversity.vercel.app |
-| — | Team Formation | Meet fellow hackers and form teams | In-Person |
-| 10:00 AM | Participant Check-In | Bevy check-in & MLH (if applicable) | FIU Registration Tables |
-| 11:00 AM | Opening Ceremony | Welcome remarks from organizers & partners | In-Person @ FIU |
-| 11:00 AM | Start Hacking | Hackathon officially begins | In-Person |
-| — | Snacks Available | Light snacks & refreshments available throughout the 12-hour sprint | In-Person @ FIU |
-
----
-
-## 🧑‍🏫 Workshops — Session A & B (Hybrid)
-
-### 🔗 Zoom Access
-- Main Zoom Room: https://hackuniversity-zoom.vercel.app  
-- Backup / Organizer Zoom: https://codecrunch-zoom.vercel.app  
-
-| Time (EST) | Organization | Workshop | Location |
-|---|---|---|---|
-| 12:00–12:45 PM | **CAHSI at FIU**  <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
-| 1:00–1:59 PM | — | **Lunch Break** — Food provided for Session B participants | In-Person @ FIU |
-| 2:00–2:45 PM | **ColorStack at FIU**  <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU / Zoom |
-| 3:00–3:45 PM | **Code Crunch Worldwide**  <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU / Zoom |
-| 4:00–4:45 PM | **Google Developer Group at FIU**  <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU / Zoom |
-| 5:00–5:30 PM | **Raspberry Pi Code Crunch**  <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU / Zoom |
-| 6:00–6:59 PM | — | **Dinner Break** — Dinner provided for Session B participants | In-Person @ FIU |
-| 6:00–6:59 PM | — | **Social Activity** — Humans vs. AI: Are We Cooked? Interactive community-building activity https://deathbyai.gg | FIU / Zoom |
-| 7:00–7:30 PM | — | Finalization Round 2 — Prepare submissions | FIU / Zoom |
-
----
-
-## 🏁 Final Hours — Session A & B
+<details open>
+<summary><strong>📅 Saturday, January 24, 2026 (12-Hour Sprint)</strong></summary>
 
 | Time (EST) | Activity | Details |
-|---|---|---|
-| — | Hacking Continues | Final refinement before submission |
-| 7:00 PM | Devpost Gallery Opens | Ensure project visibility |
-| 8:00 PM | Hacking Ends | Submissions close |
-| 7:00–7:59 PM | Judging Review | Judges review all submissions |
-| 8:00–9:59 PM | Live Demos & Q&A /  | 2-min demo + 1-min Q&A per team |
-| 8:00–9:59 PM | Closing Remarks & Awards Ceremony | Winners announced (Session A & B) |
-| 11:00–11:30 PM | Winners announced (Session A & B) | Discord announcment channel |
-| 11:00–11:30 PM | Networking | Discord voice channels |
+|-----------|----------|---------|
+| — | Registration & Check-In | On-site check-in |
+| 11:00 AM | Opening Ceremony | Live welcome at FIU |
+| 11:00 AM | Start Hacking | In-person hacking begins |
+| **3:00–5:00 PM** | 📊 **305 Excel Data Duel (Live)** | In-person Excel analytics challenge |
+| — | Snacks Available | Light refreshments throughout the day |
 
+</details>
 
 ---
 
-## 📣 Contact & Community
+<details open>
+<summary><strong>📊 305 Excel Data Duel — Live (Session A & Session B)</strong></summary>
 
-| **Organization** | **LinkedIn** |
-|------------------|-------------|
-| Google Developer Club at FIU | https://linkedin.com/company/gdgatfiu |
-| Code Crunch Global | https://linkedin.com/company/code-crunch-club |
-| ColorStack at FIU | https://linkedin.com/company/color-stack-at-fiu |
-| CAHSI at FIU | https://linkedin.com/company/cahsi-at-fiu-club |
-| Raspberry Pi Code Crunch | https://linkedin.com/company/raspberrypicodecrunch |
+This competition runs **simultaneously** for online and in-person participants.
+
+- **Time:** **3:00 PM – 5:00 PM EST**
+- **Who Can Join:** Session A (Online) & Session B (In-Person)
+- **Format:** Timed Excel-based data analytics challenges
+- **Skills:** Problem-solving, data literacy, decision-making under pressure
+- **Support:** Moderators and mentors available during the competition
+
+</details>
+
+---
+
+<details open>
+<summary><strong>🧪 Google Codelabs & Free Credits (Guided Support Available)</strong></summary>
+
+Available to **all participants (online and in-person)**.
+
+**Access Window**
+- **From the Opening Ceremony until 8:00 PM EST**
+- Includes **free Google Codelabs** and **select Google Cloud credits**
+
+### 📘 Available Google Codelabs
+Participants may work on any of the following:
+
+- **Introduction to Gemini 2.5 Pro on Google Cloud**  
+  Build AI-powered applications using the Gemini API and Google Gen AI SDK for Python.
+
+- **Yoga Pose Recommender (AI + Vector Search)**  
+  Design and deploy an AI app using Gemini, vector embeddings, Firestore, and AI-generated content.
+
+- **Google Cloud Foundations**  
+  Learn core Google Cloud services and best practices.
+
+- **Vertex AI & BigQuery Basics**  
+  Explore ML workflows and data analytics with Vertex AI and BigQuery.
+
+### 🤝 Support During the Event
+- Team members and mentors will be available to:
+  - Help you choose a codelab
+  - Assist with setup and troubleshooting
+  - Support beginners and non-CS participants
+
+Support details are shared during the **Opening Ceremony** and on the **event page**.
+
+</details>
+
+---
+
+<details open>
+<summary><strong>🧑‍🏫 Workshops — Hybrid (Session A & B)</strong></summary>
+
+Workshops are open to **both online and in-person participants**.
+
+Topics include:
+- Technical skills
+- Cloud & AI foundations
+- Career readiness
+- Hardware & community learning
+
+Workshop schedules and access details are shared **on the event page during the event**.
+
+</details>
+
+---
+
+<details open>
+<summary><strong>🏁 Final Hours & Closing Ceremony</strong></summary>
+
+| Time (EST) | Activity |
+|-----------|----------|
+| 7:00 PM | Devpost Gallery Opens |
+| 8:00 PM | Hacking Ends & Submissions Close |
+| 8:00–9:59 PM | Live Demos & Q&A |
+| 8:00–9:59 PM | Closing Ceremony & Awards |
+| 11:00–11:30 PM | Winner Announcements |
+| 11:00–11:30 PM | Networking (Discord Voice Channels) |
+
+</details>
+
+---
+
+<details>
+<summary><strong>📣 Contact & Community</strong></summary>
+
+All official announcements, updates, and support are shared via the **event page** and community channels during the event.
+
+</details>
