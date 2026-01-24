@@ -131,15 +131,26 @@ Open to everyone — all majors, all universities, and high school students.
 <details open>
 <summary><strong>📅 Saturday, January 24, 2026 (12-Hour Sprint)</strong></summary>
 
-| Time (EST) | Activity | Details |
-|-----------|----------|---------|
-| — | Registration & Check-In | On-site check-in |
-| 11:00 AM | Opening Ceremony | Live welcome at FIU |
-| 11:00 AM | Start Hacking | In-person hacking begins |
-| **3:00–5:00 PM** | 📊 **305 Excel Data Duel (Live)** | In-person Excel analytics challenge |
-| — | Snacks Available | Light refreshments throughout the day |
+| Time (EST) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| — | Registration & Check-In | On-site check-in | FIU |
+| 11:00 AM | Opening Ceremony | Live welcome | FIU |
+| 11:00 AM | Start Hacking | In-person hacking begins | FIU |
+| 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
+| 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
+| 2:00–2:45 PM | **ColorStack at FIU** <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU Everglades Hall MPR / Zoom |
+| 3:00–3:45 PM | **Code Crunch Worldwide** <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU Everglades Hall MPR / Zoom |
+| 3:00–5:00 PM | 📊 **305 Excel Data Duel (Live)** | In-person Excel analytics challenge | FIU Everglades Hall MPR / Zoom |
+| 4:00–4:45 PM | **Google Developer Group at FIU** <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU Everglades Hall MPR / Zoom |
+| 5:00–5:30 PM | **Raspberry Pi Code Crunch** <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU Everglades Hall MPR / Zoom |
+| 6:00–6:59 PM | Dinner Break | Dinner provided for Session B participants | In-Person @ FIU |
+| 6:00–6:59 PM | Social Activity | **Humans vs. AI: Are We Cooked?** <br> Interactive community activity — https://deathbyai.gg | FIU Everglades Hall MPR / Zoom |
+| 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
+| — | Snacks Available | Light refreshments throughout the day | FIU |
 
 </details>
+
+
 
 ---
 
