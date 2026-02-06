@@ -72,10 +72,10 @@ No prior hackathon experience required — beginners welcome.
 | 🌎 Time Zone | Eastern Time (EST) |
 | 🌐 Register with the OneStopForm |[ OneStop-Form ](https://codecrunchglobal.vercel.app/hackuniversity-onestopform.html) |
 | 🌐 Official Website | URL link here |
-| 📅 Agenda | URL link here |
-| 📸 Photo Album | URL link here |
-| 🎁 Perks & Swag | URL link here |
-| 🧑‍🏫 Mentor Schedule | URL link here |
+| 📅 Agenda | URL link Comming soon |
+| 📸 Photo Album | URL link Comming soon |
+| 🎁 Perks & Swag | URL link Comming soon |
+| 🧑‍🏫 Mentor Schedule | URL link Comming soon |
 
 </details>
 
