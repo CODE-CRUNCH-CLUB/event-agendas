@@ -171,7 +171,7 @@ Access details shared via:
 ---
 
 <details open>
-<summary><strong>🏁 Final Hours & Closing Ceremony</strong></summary>
+<summary><strong>🏁 Final Hours & Closing Ceremony - Session A & Session B</strong></summary>
 
 | Time (EST) | Activity |
 |-----------|----------|
