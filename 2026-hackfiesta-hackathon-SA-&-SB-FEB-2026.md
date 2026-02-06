@@ -70,6 +70,7 @@ No prior hackathon experience required — beginners welcome.
 | ⏱ Duration (Session B) | **13 Hours** |
 | 🏫 Format | Virtual + In-Person |
 | 🌎 Time Zone | Eastern Time (EST) |
+| 🌐 Register with the OneStopForm |[ OneStop-Form ](https://codecrunchglobal.vercel.app/hackuniversity-onestopform.html) |
 | 🌐 Official Website | URL link here |
 | 📅 Agenda | URL link here |
 | 📸 Photo Album | URL link here |
