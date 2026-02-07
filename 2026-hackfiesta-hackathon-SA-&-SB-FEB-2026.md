@@ -134,8 +134,8 @@ No prior hackathon experience required — beginners welcome.
 | Time (EST) | Activity | Details | Location |
 |-----------|----------|---------|----------|
 | — | Registration & Check-In | On-site check-in | Venue |
-| 9:00 AM | Opening Ceremony | Live welcome & safety briefing | Venue |
-| 9:30 AM | Start Hacking | In-person build sprint begins | Venue |
+| 10:00 AM | Opening Ceremony | Live welcome & safety briefing | Venue |
+| 11:00 AM | Start Hacking | In-person build sprint begins | Venue |
 | 11:00 AM | Workshop 1 | Hardware & prototyping fundamentals | Venue / Hybrid |
 | 12:30 PM | Lunch Break | Food provided | In-Person |
 | 1:30 PM | Workshop 2 | Embedded systems / electronics | Venue / Hybrid |
