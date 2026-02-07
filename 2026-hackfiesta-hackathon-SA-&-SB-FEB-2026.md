@@ -71,8 +71,8 @@ No prior hackathon experience required — beginners welcome.
 | 🏫 Format | Virtual + In-Person |
 | 🌎 Time Zone | Eastern Time (EST) |
 | 🌐 Register with the OneStopForm |[ OneStop-Form ](https://codecrunchglobal.vercel.app/hackuniversity-onestopform.html) |
-| 🌐 Official Website | URL link here |
-| 📅 Agenda | URL link Comming soon |
+| 🌐 Official Website | [hackfiestamiami.vercel.app](http://hackfiestamiami.vercel.app/) |
+| 📅 Agenda | [Github Agenda ](https://github.com/CODE-CRUNCH-CLUB/event-agenda/edit/main/2026-hackfiesta-hackathon-SA-%26-SB-FEB-2026.md) |
 | 📸 Photo Album | URL link Comming soon |
 | 🎁 Perks & Swag | URL link Comming soon |
 | 🧑‍🏫 Mentor Schedule | URL link Comming soon |
