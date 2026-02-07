@@ -104,9 +104,9 @@ No prior hackathon experience required — beginners welcome.
 |-----------|----------|---------|
 | — | Registration Opens | Via One-Stop Registration Form |
 | — | Team Formation | Join or form teams |
-| 7:00 PM | Opening Ceremony | Welcome, rules & logistics |
-| 7:30 PM | Participant Check-In | Event verification |
-| 8:00 PM | Start Hacking | Online hacking begins |
+| 10:00 PM | Opening Ceremony | Welcome, rules & logistics |
+| 10:00 PM | Participant Check-In | Event verification |
+| 11:00 PM | Start Hacking | Online hacking begins |
 | 8:00–11:59 PM | Ideation & Planning | Finalize project scope |
 
 </details>
