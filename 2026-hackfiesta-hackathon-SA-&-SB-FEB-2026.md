@@ -14,7 +14,7 @@
 ---
 
 ## 🧭 Quick Navigation
-<details>
+<details open>
 <summary><strong>Click to expand</strong></summary>
 
 - About the Event  
@@ -31,7 +31,7 @@
 
 ---
 
-<details open>
+<details>
 <summary><strong>🧠 About the Event</strong></summary>
 
 | Category | Details |
@@ -45,7 +45,7 @@
 
 ---
 
-<details>
+<details open>
 <summary><strong>🎉 Welcome Message</strong></summary>
 
 Welcome to **Hack Fiesta Miami 2026 — February Edition**.
@@ -73,9 +73,9 @@ No prior hackathon experience required — beginners welcome.
 | 🌐 Register with the OneStopForm |[ OneStop-Form ](https://codecrunchglobal.vercel.app/hackuniversity-onestopform.html) |
 | 🌐 Official Website | [hackfiestamiami.vercel.app](http://hackfiestamiami.vercel.app/) |
 | 📅 Agenda | [Github Agenda ](https://github.com/CODE-CRUNCH-CLUB/event-agenda/edit/main/2026-hackfiesta-hackathon-SA-%26-SB-FEB-2026.md) |
-| 📸 Photo Album | URL link Comming soon |
-| 🎁 Perks & Swag | URL link Comming soon |
-| 🧑‍🏫 Mentor Schedule | URL link Comming soon |
+| 📸 Photo Album | [View our gallery or add your photos here]) ](https://photos.app.goo.gl/QaQsG1Ck32TRofBb8) |
+| 🎁 Perks & Swag | [Click Here](https://github.com/CODE-CRUNCH-CLUB/event-prizes/blob/main/2026-hackfiestamiami-hackathon-SA-&-SB-FEB-2026.md) |
+| 🧑‍🏫 Mentor Schedule | [Click Here](https://docs.google.com/spreadsheets/d/e/2PACX-1vSgbPXzckg0CuzSfRkglzORTIar5ppgDjp30ttRwEScl9Qr9iloZlv2NxzoMfnSdUfRI5cp2rknlNSA/pubhtml?gid=0&single=true)  |
 
 </details>
 
