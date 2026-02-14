@@ -14,8 +14,8 @@
 ---
 
 ## 🧭 Quick Navigation
-<details>
-<summary><strong>Click to expand</strong></summary>
+<details open>
+  <summary><strong>Click to expand</strong></summary>
 
 - About the Event  
 - Event Information  
@@ -33,7 +33,7 @@
 ---
 
 <details open>
-<summary><strong>🧠 About the Event</strong></summary>
+  <summary><strong>🧠 About the Event</strong></summary>
 
 | Category | Details |
 |--------|---------|
@@ -47,7 +47,7 @@
 ---
 
 <details>
-<summary><strong>🎉 Welcome Message</strong></summary>
+  <summary><strong>🎉 Welcome Message</strong></summary>
 
 Welcome to **305 HACK: Edition January 2026 — Session A & Session B**.
 
@@ -60,7 +60,7 @@ Open to everyone — all majors, all universities, and high school students.
 ---
 
 <details open>
-<summary><strong>📌 Event Information</strong></summary>
+  <summary><strong>📌 Event Information</strong></summary>
 
 | Event Info | Details |
 |-----------|---------|
@@ -82,7 +82,7 @@ Open to everyone — all majors, all universities, and high school students.
 ---
 
 <details>
-<summary><strong>🏆 Prizes & Awards</strong></summary>
+  <summary><strong>🏆 Prizes & Awards</strong></summary>
 
 | Item | Details |
 |-----|--------|
@@ -98,41 +98,119 @@ Open to everyone — all majors, all universities, and high school students.
 ## 🗓️ Agenda — Session A (Online)
 
 <details open>
-<summary><strong>📅 Day 1 — Friday, January 16, 2026</strong></summary>
+  <summary><strong>🗓️ Session A (Online) — February 6–14, 2026</strong></summary>
 
-| Time (EST) | Activity | Details |
-|-----------|----------|---------|
-| — | Registration Opens | Via student portal |
-| — | Team Formation | Meet participants and form teams |
-| 10:00 PM | Opening Ceremony | Welcome remarks & partner introductions |
-| 10:00 PM | Participant Check-In | Event & MLH check-in (if applicable) |
-| 11:00 PM | Start Hacking | Hackathon officially begins |
-| 11:00–11:59 PM | Idea Finalization | Finalize project ideas |
+  <p><em>Click each day to view the schedule.</em></p>
 
-</details>
+  <details>
+    <summary><strong>📅 Day 1 — Friday, February 6, 2026</strong></summary>
 
----
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Registration Opens | Via One-Stop Registration Form |
+    | — | Team Formation | Join or form teams |
+    | 10:00 PM | Opening Ceremony | Welcome, rules & logistics |
+    | 10:00 PM | Participant Check-In | Event verification |
+    | 11:00 PM | Start Hacking | Online hacking begins |
+    | 8:00–11:59 PM | Ideation & Planning | Finalize project scope |
+  </details>
 
-<details>
-<summary><strong>📅 Days 2–7 January, 2026</strong></summary>
+  <details>
+    <summary><strong>📅 Day 2 — Saturday, February 7, 2026</strong></summary>
 
-| Time (EST) | Activity | Details |
-|-----------|----------|---------|
-| — | Hacking Continues | Build, iterate, collaborate remotely |
-| **3:00–5:00 PM** | 📊 **305 Excel Data Duel (Live)** | Timed Excel-based analytics challenge (Online) |
-| — | Mentorship & Support | See details on the event page |
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
 
-</details>
+  <details>
+    <summary><strong>📅 Day 3 — Sunday, February 8, 2026</strong></summary>
 
----
-<details>
-<summary><strong>📅 Days 2–7 — January 17–24, 2026</strong></summary>
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
 
-| Time (EST) | Activity | Details |
-|-----------|----------|---------|
-| — | Hacking Continues | Build, iterate, collaborate remotely |
-| **3:00–5:00 PM** | 📊 **305 Excel Data Duel (Live)** | Timed Excel-based analytics challenge (Online) |
-| — | Mentorship & Support | See details on the event page |
+  <details>
+    <summary><strong>📅 Day 4 — Monday, February 9, 2026</strong></summary>
+
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
+
+  <details>
+    <summary><strong>📅 Day 5 — Tuesday, February 10, 2026</strong></summary>
+
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
+
+  <details>
+    <summary><strong>📅 Day 6 — Wednesday, February 11, 2026</strong></summary>
+
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
+
+  <details>
+    <summary><strong>📅 Day 7 — Thursday, February 12, 2026</strong></summary>
+
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
+
+  <details>
+    <summary><strong>📅 Day 8 — Friday, February 13, 2026</strong></summary>
+
+    | Time (EST) | Activity | Details |
+    |-----------|----------|---------|
+    | — | Hacking Continues | Design, build, prototype |
+    | — | Mentor Office Hours | See mentor schedule |
+  </details>
+
+  <details>
+    <summary><strong>📅 Day 9 — Saturday, February 14, 2026 (Final Day / Session B In-Person)</strong></summary>
+
+    | Time (EST) | Activity | Details | Location |
+    |-----------|----------|---------|----------|
+    | 10:00 AM | Mini Hack Session: Unleash Innovation - Hackathon & Social Mixer | In-Person Welcome activity participants | In-Person @ FIU |
+    | 10:20 AM | Mini Hack Session: FIU PANTHER SPIRIT | In-Person participants | In-Person @ FIU |
+    | 10:40 AM | Mini Hack Session: Lead the Future | In-Person participants | In-Person @ FIU |
+    | 11:00 AM | Meet the Team — Opening Ceremony Session B | Live welcome | FIU |
+    | 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
+    | 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
+    | 2:00–2:45 PM | **ColorStack at FIU** <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU Everglades Hall MPR / Zoom |
+    | 3:00–3:45 PM | **Code Crunch Worldwide** <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU Everglades Hall MPR / Zoom |
+    | 3:00–5:00 PM | 📊 **305 Excel Data Duel (Live)** | Live Excel analytics challenge | FIU Everglades Hall MPR / Zoom |
+    | 4:00–4:45 PM | **Google Developer Group at FIU** <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU Everglades Hall MPR / Zoom |
+    | 5:00–5:30 PM | **Raspberry Pi Code Crunch** <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU Everglades Hall MPR / Zoom |
+    | 6:00–6:59 PM | Dinner Break | Dinner provided for Session B participants | In-Person @ FIU |
+    | 6:00–6:59 PM | Social Activity — **Paint.exe** <br> https://deathbyai.gg | Interactive community activity | FIU Everglades Hall MPR / Zoom |
+    | 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
+  </details>
+
+  <details>
+    <summary><strong>🏁 Final Hours & Closing Ceremony — Session A (Online)</strong></summary>
+
+    | Time (EST) | Activity |
+    |-----------|----------|
+    | 7:00 PM | Devpost Gallery Opens |
+    | 8:00 PM | Hacking Ends & Submissions Close |
+    | 8:00–9:59 PM | Live Demos & Q&A |
+    | 8:00–9:59 PM | Closing Ceremony & Awards |
+    | 11:00–11:30 PM | Winner Announcements |
+    | 11:00–11:30 PM | Networking (Discord Voice Channels) |
+  </details>
 
 </details>
 
@@ -141,11 +219,19 @@ Open to everyone — all majors, all universities, and high school students.
 ## 🗓️ Agenda — Session B (In-Person)
 
 <details open>
-<summary><strong>📅 Saturday, January 24, 2026 (12-Hour Sprint)</strong></summary>
+  <summary><strong>🗓️ Session B (In-Person) — Saturday, February 14, 2026</strong></summary>
+
+  <p><em>Click the sprint day below to view the full schedule.</em></p>
+
+  <details>
+    <summary><strong>📅 Sprint Day — Saturday (12-Hour In-Person Experience)</strong></summary>
 
 | Time (EST) | Activity | Details | Location |
 |-----------|----------|---------|----------|
 | — | Registration & Check-In | On-site check-in | FIU |
+| 10:00 AM | Mini Hack Session: Unleash Innovation — Hackathon & Social Mixer | In-person welcome activity for participants | In-Person @ FIU |
+| 10:20 AM | Mini Hack Session: FIU PANTHER SPIRIT | Community energy + icebreaker activity | In-Person @ FIU |
+| 10:40 AM | Mini Hack Session: Lead the Future | Leadership & innovation warm-up session | In-Person @ FIU |
 | 11:00 AM | Opening Ceremony | Live welcome | FIU |
 | 11:00 AM | Start Hacking | In-person hacking begins | FIU |
 | 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
@@ -160,42 +246,29 @@ Open to everyone — all majors, all universities, and high school students.
 | 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
 | — | Snacks Available | Light refreshments throughout the day | FIU |
 
-</details>
+  </details>
 
+  <details>
+    <summary><strong>🏁 Final Hours & Closing Ceremony — Session B (In-Person)</strong></summary>
 
+| Time (EST) | Activity | Location |
+|-----------|----------|----------|
+| 7:00 PM | Devpost Gallery Opens | FIU / Online Portal |
+| 8:00 PM | Hacking Ends & Submissions Close | FIU |
+| 8:00–9:59 PM | Live Demos & Q&A | FIU Everglades Hall MPR |
+| 8:00–9:59 PM | Closing Ceremony & Awards | FIU Everglades Hall MPR |
+| 11:00–11:30 PM | Winner Announcements | FIU / Online |
+| 11:00–11:30 PM | Networking | FIU & Discord |
 
----
-
-## 🗓️ Agenda — Session B (In-Person)
-
-<details open>
-<summary><strong>📅 Saturday, January 24, 2026 (12-Hour Sprint)</strong></summary>
-
-| Time (EST) | Activity | Details | Location |
-|-----------|----------|---------|----------|
-| — | Registration & Check-In | On-site check-in | FIU |
-| 11:00 AM | Opening Ceremony | Live welcome | FIU |
-| 11:00 AM | Start Hacking | In-person hacking begins | FIU |
-| 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
-| 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
-| 2:00–2:45 PM | **ColorStack at FIU** <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU Everglades Hall MPR / Zoom |
-| 3:00–3:45 PM | **Code Crunch Worldwide** <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU Everglades Hall MPR / Zoom |
-| 3:00–5:00 PM | 📊 **305 Excel Data Duel (Live)** | In-person Excel analytics challenge | FIU Everglades Hall MPR / Zoom |
-| 4:00–4:45 PM | **Google Developer Group at FIU** <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU Everglades Hall MPR / Zoom |
-| 5:00–5:30 PM | **Raspberry Pi Code Crunch** <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU Everglades Hall MPR / Zoom |
-| 6:00–6:59 PM | Dinner Break | Dinner provided for Session B participants | In-Person @ FIU |
-| 6:00–6:59 PM | Social Activity | **Humans vs. AI: Are We Cooked?** <br> Interactive community activity — https://deathbyai.gg | FIU Everglades Hall MPR / Zoom |
-| 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
-| — | Snacks Available | Light refreshments throughout the day | FIU |
+  </details>
 
 </details>
 
 
-
 ---
 
-<details open>
-<summary><strong>📊 305 Excel Data Duel — Live (Session A & Session B)</strong></summary>
+<details >
+  <summary><strong>📊 305 Excel Data Duel — Live (Session A & Session B)</strong></summary>
 
 This competition runs **simultaneously** for online and in-person participants.
 
@@ -209,8 +282,8 @@ This competition runs **simultaneously** for online and in-person participants.
 
 ---
 
-<details open>
-<summary><strong>🧪 Google Codelabs & Free Credits (Guided Support Available)</strong></summary>
+<details >
+  <summary><strong>🧪 Google Codelabs & Free Credits (Guided Support Available)</strong></summary>
 
 Available to **all participants (online and in-person)**.
 
@@ -245,8 +318,8 @@ Support details are shared during the **Opening Ceremony** and on the **event pa
 
 ---
 
-<details open>
-<summary><strong>🧑‍🏫 Workshops — Hybrid (Session A & B)</strong></summary>
+<details >
+  <summary><strong>🧑‍🏫 Workshops — Hybrid (Session A & B)</strong></summary>
 
 Workshops are open to **both online and in-person participants**.
 
@@ -263,7 +336,7 @@ Workshop schedules and access details are shared **on the event page during the 
 ---
 
 <details open>
-<summary><strong>🏁 Final Hours & Closing Ceremony</strong></summary>
+  <summary><strong>🏁 Final Hours & Closing Ceremony (All Participants)</strong></summary>
 
 | Time (EST) | Activity |
 |-----------|----------|
@@ -279,7 +352,7 @@ Workshop schedules and access details are shared **on the event page during the 
 ---
 
 <details>
-<summary><strong>📣 Contact & Community</strong></summary>
+  <summary><strong>📣 Contact & Community</strong></summary>
 
 All official announcements, updates, and support are shared via the **event page** and community channels during the event.
 
