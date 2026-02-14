@@ -97,7 +97,7 @@ Open to everyone — all majors, all universities, and high school students.
 
 ## 🗓️ Agenda — Session A (Online)
 
-<details open>
+<details>
   <summary><strong>🗓️ Session A (Online) — February 6–14, 2026</strong></summary>
 
   <p><em>Click each day to view the schedule.</em></p>
@@ -105,114 +105,125 @@ Open to everyone — all majors, all universities, and high school students.
   <details>
     <summary><strong>📅 Day 1 — Friday, February 6, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Registration Opens | Via One-Stop Registration Form |
-    | — | Team Formation | Join or form teams |
-    | 10:00 PM | Opening Ceremony | Welcome, rules & logistics |
-    | 10:00 PM | Participant Check-In | Event verification |
-    | 11:00 PM | Start Hacking | Online hacking begins |
-    | 8:00–11:59 PM | Ideation & Planning | Finalize project scope |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Registration Opens | Via One-Stop Registration Form |
+| — | Team Formation | Join or form teams |
+| 10:00 PM | Opening Ceremony | Welcome, rules & logistics |
+| 10:00 PM | Participant Check-In | Event verification |
+| 11:00 PM | Start Hacking | Online hacking begins |
+| 8:00–11:59 PM | Ideation & Planning | Finalize project scope |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 2 — Saturday, February 7, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 3 — Sunday, February 8, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 4 — Monday, February 9, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 5 — Tuesday, February 10, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 6 — Wednesday, February 11, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 7 — Thursday, February 12, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 8 — Friday, February 13, 2026</strong></summary>
 
-    | Time (EST) | Activity | Details |
-    |-----------|----------|---------|
-    | — | Hacking Continues | Design, build, prototype |
-    | — | Mentor Office Hours | See mentor schedule |
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| — | Hacking Continues | Design, build, prototype |
+| — | Mentor Office Hours | See mentor schedule |
+
   </details>
 
   <details>
     <summary><strong>📅 Day 9 — Saturday, February 14, 2026 (Final Day / Session B In-Person)</strong></summary>
 
-    | Time (EST) | Activity | Details | Location |
-    |-----------|----------|---------|----------|
-    | 10:00 AM | Mini Hack Session: Unleash Innovation - Hackathon & Social Mixer | In-Person Welcome activity participants | In-Person @ FIU |
-    | 10:20 AM | Mini Hack Session: FIU PANTHER SPIRIT | In-Person participants | In-Person @ FIU |
-    | 10:40 AM | Mini Hack Session: Lead the Future | In-Person participants | In-Person @ FIU |
-    | 11:00 AM | Meet the Team — Opening Ceremony Session B | Live welcome | FIU |
-    | 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
-    | 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
-    | 2:00–2:45 PM | **ColorStack at FIU** <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU Everglades Hall MPR / Zoom |
-    | 3:00–3:45 PM | **Code Crunch Worldwide** <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU Everglades Hall MPR / Zoom |
-    | 3:00–5:00 PM | 📊 **305 Excel Data Duel (Live)** | Live Excel analytics challenge | FIU Everglades Hall MPR / Zoom |
-    | 4:00–4:45 PM | **Google Developer Group at FIU** <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU Everglades Hall MPR / Zoom |
-    | 5:00–5:30 PM | **Raspberry Pi Code Crunch** <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU Everglades Hall MPR / Zoom |
-    | 6:00–6:59 PM | Dinner Break | Dinner provided for Session B participants | In-Person @ FIU |
-    | 6:00–6:59 PM | Social Activity — **Paint.exe** <br> https://deathbyai.gg | Interactive community activity | FIU Everglades Hall MPR / Zoom |
-    | 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
+| Time (EST) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| 10:00 AM | Mini Hack Session: Unleash Innovation - Hackathon & Social Mixer | In-Person Welcome activity participants | In-Person @ FIU |
+| 10:20 AM | Mini Hack Session: FIU PANTHER SPIRIT | In-Person participants | In-Person @ FIU |
+| 10:40 AM | Mini Hack Session: Lead the Future | In-Person participants | In-Person @ FIU |
+| 11:00 AM | Meet the Team — Opening Ceremony Session B | Live welcome | FIU |
+| 12:00–12:45 PM | **CAHSI at FIU** <br> https://cahsiatfiu.vercel.app | Graduate School, Research & Résumé Readiness | FIU Everglades Hall MPR / Zoom |
+| 1:00–1:59 PM | Lunch Break | Food provided for Session B participants | In-Person @ FIU |
+| 2:00–2:45 PM | **ColorStack at FIU** <br> https://colorstackatfiu.vercel.app | How to Prepare for Technical Interviews | FIU Everglades Hall MPR / Zoom |
+| 3:00–3:45 PM | **Code Crunch Worldwide** <br> https://codecrunchglobal.vercel.app | Git & GitHub Basics + GitHub Actions | FIU Everglades Hall MPR / Zoom |
+| 3:00–5:00 PM | 📊 **305 Excel Data Duel (Live)** | Live Excel analytics challenge | FIU Everglades Hall MPR / Zoom |
+| 4:00–4:45 PM | **Google Developer Group at FIU** <br> https://gdgatfiu.vercel.app | Google Cloud Foundations, Vertex AI & BigQuery | FIU Everglades Hall MPR / Zoom |
+| 5:00–5:30 PM | **Raspberry Pi Code Crunch** <br> https://raspberrypicodecrunch.vercel.app | Hardware Basics, Tinkercad & Community Teaching | FIU Everglades Hall MPR / Zoom |
+| 6:00–6:59 PM | Dinner Break | Dinner provided for Session B participants | In-Person @ FIU |
+| 6:00–6:59 PM | Social Activity — **Paint.exe** <br> https://deathbyai.gg | Interactive community activity | FIU Everglades Hall MPR / Zoom |
+| 7:00–7:30 PM | Finalization Round 2 | Prepare submissions | FIU / Zoom |
+
   </details>
 
   <details>
     <summary><strong>🏁 Final Hours & Closing Ceremony — Session A (Online)</strong></summary>
 
-    | Time (EST) | Activity |
-    |-----------|----------|
-    | 7:00 PM | Devpost Gallery Opens |
-    | 8:00 PM | Hacking Ends & Submissions Close |
-    | 8:00–9:59 PM | Live Demos & Q&A |
-    | 8:00–9:59 PM | Closing Ceremony & Awards |
-    | 11:00–11:30 PM | Winner Announcements |
-    | 11:00–11:30 PM | Networking (Discord Voice Channels) |
+| Time (EST) | Activity |
+|-----------|----------|
+| 7:00 PM | Devpost Gallery Opens |
+| 8:00 PM | Hacking Ends & Submissions Close |
+| 8:00–9:59 PM | Live Demos & Q&A |
+| 8:00–9:59 PM | Closing Ceremony & Awards |
+| 11:00–11:30 PM | Winner Announcements |
+| 11:00–11:30 PM | Networking (Discord Voice Channels) |
+
   </details>
 
 </details>
+
 
 ---
 
