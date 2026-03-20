@@ -45,8 +45,8 @@
 
 ---
 
-<details open>
-<summary><strong>🎉 Welcome Message</strong></summary>
+<details>
+<summary><strong>🎉 Welcome to **305 Hackathon — March 2026 Edition**</strong></summary>
 
 Welcome to **305 Hackathon — March 2026 Edition**.
 
@@ -70,6 +70,8 @@ No prior hackathon experience required — beginners welcome.
 | ⏱ Duration (Session A) | **192 Hours** |
 | 📅 Session B (In-Person) | **March 20, 2026 (EST)** |
 | ⏱ Duration (Session B) | **12 Hours** |
+| 📅 Session CTF (In-Person) | **March 20, 2026 (EST)** |
+| ⏱ Duration (Session CTF) | **7 Hours** |
 | 🏫 Format | Virtual + In-Person |
 | 🌎 Time Zone | Eastern Time (EST) |
 | 🌐 Register with the OneStopForm |[ OneStop-Form ](https://codecrunchglobal.vercel.app/hackuniversity-onestopform.html) |
@@ -96,8 +98,8 @@ No prior hackathon experience required — beginners welcome.
 </details>
 
 ---
-
-## 🗓️ Agenda — Session A (Online)
+<details>
+<summary><h2> 🗓️ Agenda — Session A (Online) - March 16-20, 2026 (120-Hour Sprint)</h2></summary>
 
 <details open>
 <summary><strong>📅 Day 1 — Monday, March 16, 2026</strong></summary>
@@ -115,7 +117,7 @@ No prior hackathon experience required — beginners welcome.
 
 ---
 
-<details>
+<details open>
 <summary><strong>📅 Days 2–5 — March 17–20, 2026</strong></summary>
 
 | Time (EST) | Activity | Details |
@@ -126,12 +128,12 @@ No prior hackathon experience required — beginners welcome.
 
 </details>
 
+</details>
+
 ---
 
-## 🗓️ Agenda — Session B (In-Person)
-
-<details open>
-<summary><strong>📅 Friday, March 20, 2026 (12-Hour Sprint)</strong></summary>
+<details>
+<summary><h2> 🗓️ Agenda — Session B (In-Person) - Friday, March 20, 2026 (12-Hour Sprint)</h2></summary>
 
 | Time (EST) | Activity | Details | Location |
 |-----------|----------|---------|----------|
@@ -150,6 +152,26 @@ No prior hackathon experience required — beginners welcome.
 
 </details>
 
+---
+
+<details>
+<summary><h2> 🗓️ Agenda — Session CTF (In-Person)</h2></summary>
+
+| Time (EST) | Activity | Details | Location |
+|-----------|----------|---------|----------|
+| — | Registration & Check-In | On-site check-in | Venue |
+| 10:00 AM | Opening Ceremony | Welcome & Opening Remarks | Venue |
+| 10:30 AM | CTF Instructions | Rules & Platform Walkthrough | Venue |
+| 11:00 AM | CTF Session I | Competition Begins | Venue |
+| 12:00 AM | Speaker Session I | Lightning Talk | Venue |
+| 12:30 AM | Break | Break & Open Collaboration | Venue |
+| 01:00 PM | Speaker Session II | Lightning Talk | Venue |
+| 01:45 PM | CTF Session II | Competition Continues | Venue |
+| 04:00 PM | Final Push | Final Submissions & Scoreboard Freeze | Venue |
+| 04:15 PM | Closing Ceremony | Winner Announcement & Closing Remarks | Venue |
+
+
+</details>
 ---
 
 <details open>
