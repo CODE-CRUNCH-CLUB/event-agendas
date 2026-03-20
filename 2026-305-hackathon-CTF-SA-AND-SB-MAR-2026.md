@@ -99,10 +99,10 @@ No prior hackathon experience required — beginners welcome.
 
 ---
 <details>
-<summary><h2> 🗓️ Agenda — Session A (Online) - March 16-20, 2026 (120-Hour Sprint)</h2></summary>
+<summary><h2> 🗓️ Agenda — Session A (Online) - March 13-20, 2026 (120-Hour Sprint)</h2></summary>
 
 <details open>
-<summary><strong>📅 Day 1 — Monday, March 16, 2026</strong></summary>
+<summary><strong>📅 Day 1 — Friday, March 13, 2026</strong></summary>
 
 | Time (EST) | Activity | Details |
 |-----------|----------|---------|
@@ -111,20 +111,36 @@ No prior hackathon experience required — beginners welcome.
 | 10:00 PM | Opening Ceremony | Welcome, rules & logistics |
 | 10:00 PM | Participant Check-In | Event verification |
 | 11:00 PM | Start Hacking | Online hacking begins |
-| 8:00–11:59 PM | Ideation & Planning | Finalize project scope |
+| 08:00–11:59 PM | Ideation & Planning | Finalize project scope |
 
 </details>
 
 ---
 
 <details open>
-<summary><strong>📅 Days 2–5 — March 17–20, 2026</strong></summary>
+<summary><strong>📅 Days 2–7 — March 14–19, 2026</strong></summary>
 
 | Time (EST) | Activity | Details |
 |-----------|----------|---------|
 | — | Hacking Continues | Build prototypes and develop projects |
 | — | Mentor Office Hours | See mentor schedule |
 | — | Workshops | AI, cybersecurity, startups, and data science |
+
+</details>
+
+---
+
+<details open>
+<summary><strong>📅 Day 8 — Friday March 20, 2026</strong></summary>
+
+| Time (EST) | Activity | Details |
+|-----------|----------|---------|
+| 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan |
+| 06:30 PM | Agentic AI Masterclass | Google Developer Expert Simon Margolis |
+| 08:00 PM | Submission Deadline | Projects due | Online Portal |
+| 08:00–09:30 PM | Live Demos & Judging | Project presentations | Venue |
+| 09:30 PM | Closing Ceremony | Awards & acknowledgements | Venue |
+
 
 </details>
 
@@ -138,17 +154,19 @@ No prior hackathon experience required — beginners welcome.
 | Time (EST) | Activity | Details | Location |
 |-----------|----------|---------|----------|
 | — | Registration & Check-In | On-site check-in | Venue |
-| 9:00 AM | Opening Ceremony | Welcome & event kickoff | Venue |
+| 09:00 AM | Opening Ceremony | Welcome & event kickoff | Venue |
 | 10:00 AM | Start Hacking | In-person build sprint begins | Venue |
 | 10:30 AM | Workshop 1 | AI & Startup Prototyping | Venue / Hybrid |
 | 12:30 PM | Lunch Break | Food provided | In-Person |
-| 1:30 PM | Workshop 2 | Data Science & Analytics | Venue / Hybrid |
-| 3:00 PM | Mentor Checkpoints | Technical feedback sessions | Venue |
-| 5:30 PM | Dinner Break | Food provided | In-Person |
-| 6:30 PM | Final Build Push | Testing & documentation | Venue |
-| 8:00 PM | Submission Deadline | Projects due | Online Portal |
-| 8:00–9:30 PM | Live Demos & Judging | Project presentations | Venue |
-| 9:30 PM | Closing Ceremony | Awards & acknowledgements | Venue |
+| 01:30 PM | Workshop 2 | Data Science & Analytics | Venue / Hybrid |
+| 03:00 PM | Mentor Checkpoints | Technical feedback sessions | Venue |
+| 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan | Venue / Hybrid |
+| 05:30 PM | Dinner Break | Food provided | In-Person |
+| 06:30 PM | Final Build Push | Testing & documentation | Venue |
+| 06:30 PM | Agentic AI Masterclass | Google Developer Expert Simon Margolis | Venue / Hybrid |
+| 08:00 PM | Submission Deadline | Projects due | Online Portal |
+| 08:00–09:30 PM | Live Demos & Judging | Project presentations | Venue |
+| 09:30 PM | Closing Ceremony | Awards & acknowledgements | Venue |
 
 </details>
 
