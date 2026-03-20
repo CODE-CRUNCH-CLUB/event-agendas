@@ -153,14 +153,16 @@ No prior hackathon experience required — beginners welcome.
 
 | Time (EST) | Activity | Details | Location |
 |-----------|----------|---------|----------|
-| — | Registration & Check-In | On-site check-in | Venue |
-| 09:00 AM | Opening Ceremony | Welcome & event kickoff | Venue |
-| 10:00 AM | Start Hacking | In-person build sprint begins | Venue |
-| 10:30 AM | Workshop 1 | AI & Startup Prototyping | Venue / Hybrid |
-| 12:30 PM | Lunch Break | Food provided | In-Person |
-| 01:30 PM | Workshop 2 | Data Science & Analytics | Venue / Hybrid |
-| 03:00 PM | Mentor Checkpoints | Technical feedback sessions | Venue |
+| -------- | Registration & Check-In | On-site check-in | Venue |
+| 10:00 AM | Opening Ceremony | Welcome & event kickoff | Venue |
+| 11:00 AM | Start Hacking | In-person build sprint begins | Venue |
+| 12:00 PM | Workshop 1 | AI & Startup Prototyping | Venue / Hybrid |
+| 01:00 PM | Lunch Break | Food provided | In-Person |
+| 02:00 PM | Social Event | Interactive Activities & Games | Venue / Hybrid |
+| 02:30 PM | Workshop 2 | 	Data Science & Analytics | Venue |
+| 03:30 PM | Lead The Future Event | 	Leadership Development | Venue |
 | 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan | Venue / Hybrid |
+| 05:00 PM | Unleash Your Code Event | Networking| In-Person |
 | 05:30 PM | Dinner Break | Food provided | In-Person |
 | 06:30 PM | Final Build Push | Testing & documentation | Venue |
 | 06:30 PM | Agentic AI Masterclass | Google Developer Expert Simon Margolis | Venue / Hybrid |
