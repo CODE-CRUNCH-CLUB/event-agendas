@@ -164,7 +164,7 @@ No prior hackathon experience required — beginners welcome.
 | 04:00 PM | Google Cloud: Agentic AI | Google Developer Expert Karthigayan Devan | Venue / Hybrid |
 | 05:00 PM | Unleash Your Code Event | Networking| In-Person |
 | 05:30 PM | Dinner Break | Food provided | In-Person |
-| 06:30 PM | Final Build Push | Testing & documentation | Venue |
+| 06:00 PM | Data Structures & Python | Testing & documentation | Venue |
 | 06:30 PM | Agentic AI Masterclass | Google Developer Expert Simon Margolis | Venue / Hybrid |
 | 08:00 PM | Submission Deadline | Projects due | Online Portal |
 | 08:00–09:30 PM | Live Demos & Judging | Project presentations | Venue |
